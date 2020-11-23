@@ -1,4 +1,4 @@
-package org.des.springboot.springbootapplicationymlyaml;
+package org.des.springboot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
