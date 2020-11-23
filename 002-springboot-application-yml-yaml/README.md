@@ -10,7 +10,7 @@ application.yaml
 
 一般只有一个，若多个，以application.properties为准
 
- ### 工程多环境
+ ### 工程多环境 
 
 子环境核心配置文件的名称是以：application-xxx.properties
 主核心配置文件只能有一个：application properties
